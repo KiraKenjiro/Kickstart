@@ -1,9 +1,9 @@
 <div align="center">
     <h1>
-        <img src="assets/images/headerBanner.png">
+        <img src="images/headerBanner.png">
     </h1>
     <h1>
-        <img src="assets/images/titleLogo.png" height="32px">
+        <img src="images/titleLogo.png" height="32px">
         <a href="">[🚀] Kickstart</a>
     </h1>
     <h4><b>Your new go to for a simple and minimal README template.</b></h4>
