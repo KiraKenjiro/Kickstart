@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="assets/images/titleBanner.png">
+        <img src="assets/images/headerBanner.png">
     </h1>
     <h1>
         <img src="assets/images/titleLogo.png" height="32px">
