@@ -44,8 +44,6 @@
     </h3>
 </div>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Project Description
 
 Briefly describe your project here. Provide an overview of its purpose, features, and any other relevant information.
