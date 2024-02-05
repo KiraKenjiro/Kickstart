@@ -1,48 +1,48 @@
 <div align="center">
     <h1>
-        <img src="readmeicon.png" alt="TMC Emblem" height="23px">
-        <a href="https://www.triumphmayflowerclub.com/">TriumphMayflowerClub.com</a>
+        <img src="titleLogo.png" alt="Readme Logo" height="32px">
+        <a href="">[🚀] Kickstart</a>
     </h1>
-    <h4><b>New website for the Triumph Mayflower Club, launched in March 2018</b></h4>
+    <h4><b>Your new go to for a simple and minimal README template.</b></h4>
     <h4>
-        <a href="#links">Links</a>
+        <a href="https://www.google.com">Links</a>
         •
-        <a href="#versions">Versions</a>
+        <a href="https://www.google.com">Links</a>
         •
-        <a href="#roadmap">Roadmap</a>
+        <a href="https://www.google.com">Links</a>
         •
-        <a href="#development-guide">Development guide</a>
+        <a href="https://www.google.com">Links</a>
         •
-        <a href="#deployment">Deployment</a>
+        <a href="https://www.google.com">Links</a>
         •
-        <a href="#contact">Contact</a>
-        •
-        <a href="#copyright">Copyright</a>
+        <a href="https://www.google.com">Links</a>
     </h4>
     <h3>
-        <a href="https://www.github.com/andiemmadavies">
-            <img src="https://img.shields.io/badge/maintainer-%40andiemmadavies-yellow">
+        <a href="https://www.github.com/KiraKenjiro">
+            <img src="https://img.shields.io/badge/maintainer-Kira Kenjiro-purple">
         </a>
-        <a href="https://www.triumphmayflowerclub.com/">
-            <img src="https://img.shields.io/website?url=http%3A%2F%2Fwww.triumphmayflowerclub.com%2F">
+        <a href="https://www.google.com">
+            <img src="https://img.shields.io/website?url=https://www.google.com">
         </a>
-        <a href="https://www.triumphmayflowerclub.com/news/2018/03/launchofthenewclubwebsite">
-            <img src="https://img.shields.io/badge/launched-march%202018-teal">
+        <a href="https://github.com/KiraKenjiro/Kickstart">
+            <img src="https://img.shields.io/badge/published-5th February 2024-teal">
         </a>
-        <a href="https://www.github.com/Stack-in-a-box/triumphmayflowerclub.com/commits/master">
-            <img src="https://img.shields.io/github/last-commit/Stack-in-a-box/triumphmayflowerclub.com?color=blue&label=updated">
+        <a href="">
+            <img src="https://img.shields.io/github/last-commit/KiraKenjiro/Kickstart?color=blue&label=updated">
         </a>
-        <a href="https://www.github.com/Stack-in-a-box/triumphmayflowerclub.com/releases/latest">
-            <img src="https://img.shields.io/github/v/release/Stack-in-a-box/triumphmayflowerclub.com?color=blueviolet&label=version">
+        <a href="https://www.github.com/KiraKenjiro/Kickstart/releases/latest">
+            <img src="https://img.shields.io/github/v/release/KiraKenjiro/Kickstart?color=blueviolet&label=version">
         </a>
-        <a href="#copyright">
-            <img src="https://img.shields.io/badge/licence-%C2%A9-crimson">
+        <a href="">
+            <img alt="GitHub License" src="https://img.shields.io/github/license/KiraKenjiro/Kickstart">
         </a>
-        <a href="https://www.facebook.com/triumphmayflowerclub">
-            <img src="https://img.shields.io/badge/social-facebook-darkred">
+        <a href="https://discord.gg/PYHsdbQ6fK">
+            <img alt="Discord" src="https://img.shields.io/discord/1099628748627791873?label=discord&color=7289da">
         </a>
     </h3>
 </div>
+
+---
 
 ## Project Description
 
@@ -55,9 +55,9 @@ Briefly describe your project here. Provide an overview of its purpose, features
   - [Windows](#windows)
 - [How to Use the Project](#how-to-use-the-project)
 - [Contributing](#contributing)
-  - [Bug Report](#bug-report)
-  - [Feature Request](#feature-request)
-  - [Documentation Request](#documentation-request)
+  - [Bug Report]()
+  - [Feature Request]()
+  - [Documentation Request]()
 - [Credits & Contributors](#credits--contributors)
 - [Contact](#contact)
 
@@ -91,6 +91,7 @@ Provide detailed information on how users can effectively use your project. Incl
 ## Credits & Contributors
 Give credit to those who have contributed to the project. Mention their GitHub usernames or any other relevant information.
 
+## Contributing
 <details>
 <summary>How to contribute!</summary>
 We welcome contributions from the community! If you would like to contribute, please follow the guidelines below.
