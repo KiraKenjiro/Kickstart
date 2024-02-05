@@ -1,5 +1,8 @@
 <div align="center">
     <h1>
+        <img src="titleBanner.png">
+    </h1>
+    <h1>
         <img src="titleLogo.png" height="32px">
         <a href="">[🚀] Kickstart</a>
     </h1>
