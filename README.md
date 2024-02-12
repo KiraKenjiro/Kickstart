@@ -100,17 +100,17 @@ We welcome contributions from the community! If you would like to contribute, pl
 
 <details>
 <summary>Bug Report</summary>
-If you encounter a bug, please create a detailed bug report following the template in CONTRIBUTING.md.
+If you encounter a bug, please create a detailed bug report following the template by clicking [here](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Bug&projects=&template=bug-report.md&title=%5BBug+Report%5D).
 </details>
 
 <details>
 <summary>Feature Request</summary>
-If you have a feature request, please create an issue following the template in CONTRIBUTING.md.
+If you have a feature request, please create an issue following the template by clicking [here](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Suggestion&projects=&template=feature_request.md&title=%5BFeature+Request%5D).
 </details>
 
 <details>
 <summary>Documentation Request</summary>
-If you find any gaps in documentation or would like to suggest improvements, please create an issue following the template in CONTRIBUTING.md.
+If you find any gaps in documentation or would like to suggest improvements, please create an issue following the template by clicking [here](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Documentation&projects=&template=documentation-request.md&title=%5BDocumentation+Request%5D)
 </details>
 </details>
 
