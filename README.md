@@ -57,9 +57,9 @@ Briefly describe your project here. Provide an overview of its purpose, features
   - [Windows](#windows)
 - [How to Use the Project](#how-to-use-the-project)
 - [Contributing](#contributing)
-  - [Bug Report]()
-  - [Feature Request]()
-  - [Documentation Request]()
+  - [Bug Report](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Bug&projects=&template=bug-report.md&title=Bug+Report)
+  - [Feature Request](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Suggestion&projects=&template=feature_request.md&title=Feature+Request)
+  - [Documentation Request](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Documentation&projects=&template=documentation-request.md&title=Documentation+Request)
 - [Credits & Contributors](#credits--contributors)
 - [Contact](#contact)
 
@@ -100,17 +100,17 @@ We welcome contributions from the community! If you would like to contribute, pl
 
 <details>
 <summary>Bug Report</summary>
-If you encounter a bug, please create a detailed bug report following the template by clicking [here](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Bug&projects=&template=bug-report.md&title=%5BBug+Report%5D).
+If you encounter a bug, please create a detailed bug report following the template by clicking <a href="https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Bug&projects=&template=bug-report.md&title=Bug+Report">here</a>.
 </details>
 
 <details>
 <summary>Feature Request</summary>
-If you have a feature request, please create an issue following the template by clicking [here](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Suggestion&projects=&template=feature_request.md&title=%5BFeature+Request%5D).
+If you have a feature request, please create an issue following the template by clicking <a href="https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Suggestion&projects=&template=feature_request.md&title=Feature+Request">here</a>.
 </details>
 
 <details>
 <summary>Documentation Request</summary>
-If you find any gaps in documentation or would like to suggest improvements, please create an issue following the template by clicking [here](https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Documentation&projects=&template=documentation-request.md&title=%5BDocumentation+Request%5D)
+If you find any gaps in documentation or would like to suggest improvements, please create an issue following the template by clicking <a href="https://github.com/KiraKenjiro/Kickstart/issues/new?assignees=&labels=Documentation&projects=&template=documentation-request.md&title=Documentation+Request">here</a>
 </details>
 </details>
 
